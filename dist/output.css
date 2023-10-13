@@ -667,6 +667,18 @@ video {
   margin-top: 250px;
 }
 
+.mt-\[200px\] {
+  margin-top: 200px;
+}
+
+.mt-3 {
+  margin-top: 0.75rem;
+}
+
+.mt-5 {
+  margin-top: 1.25rem;
+}
+
 .block {
   display: block;
 }
@@ -1042,7 +1054,7 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  height: 100vh;
+  height: 50%;
   filter: grayscale(50%);
 }
 
